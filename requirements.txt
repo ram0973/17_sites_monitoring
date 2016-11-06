@@ -1,0 +1,6 @@
+win-unicode-console==0.5
+python-whois==0.6.3
+requests==2.11.1
+python-dateutil==2.5.3
+chardet==2.3.0
+tqdm==4.9.0
