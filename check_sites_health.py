@@ -84,6 +84,7 @@ def get_site_info(url: str) -> tuple:
         exp_date = None
         is_paid = None
 
+    # не знаю, праильно ли тут использовать кортеж
     return url, url_valid, status_200, exp_date, is_paid
 
 
