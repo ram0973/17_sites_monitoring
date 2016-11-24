@@ -53,7 +53,7 @@ def print_site_info(site):
     if not site['url_valid']:
         print('Maybe, wrong url: %s' % url)
         return
-    status_200 = site['status200']
+    status_200 = site['status_200']
     exp_date = site['exp_date']
     is_paid = site['is_paid']
     status_200 = '-' if status_200 is None else ['No', 'Yes'][status_200]

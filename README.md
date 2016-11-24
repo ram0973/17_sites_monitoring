@@ -1,6 +1,6 @@
 # Task [№17](https://devman.org/challenges/17/) from [devman](https://devman.org)
-## What is it
-
+## Purpose
+Script prints out 
 ## Requirements
 ```
 Python 3.5.2+
