@@ -1,6 +1,8 @@
 # Task [№17](https://devman.org/challenges/17/) from [devman](https://devman.org)
 ## Purpose
-Script prints out 
+Script reads file with sites urls, then checks if site responds with status 200,
+ and checks domain expiration date (is domain paid for at least a month), then
+ print out results. 
 ## Requirements
 ```
 Python 3.5.2+
